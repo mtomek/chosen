@@ -1,6 +1,6 @@
 {
-  "name": "harvesthq/chosen",
-  "description": "Chosen is a JavaScript plugin that makes select boxes user-friendly. It is currently available in both jQuery and Prototype flavors.",
+  "name": "mtomek/chosen",
+  "description": "Drupal oriented fork jf Choosen. Chosen is a JavaScript plugin that makes select boxes user-friendly. It is currently available in both jQuery and Prototype flavors.",
   "authors": [
     {
       "name": "Patrick Filler",
@@ -27,7 +27,7 @@
     "input",
     "ui"
   ],
-  "type": "library",
+  "type": "drupal-library",
   "license": "MIT",
   "minimum-stability": "stable",
   "homepage": "https://harvesthq.github.io/chosen/",
